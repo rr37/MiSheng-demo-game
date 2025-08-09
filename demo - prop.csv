@@ -1,7 +1,7 @@
 id,missionId,type,title,img,frontImg,rotateImg1,rotateImg2
-1,4,Img,臉輸小鞭,bian.png,,,
-2,4,Wheel,前任智者的日記,riji-i.png,riji-f.png,riji-r1.png,riji-r2.png
-3,4,Img,石二牆,shierqiang.png,,,
-4,4,Img,逗貓棒,doumaobang.png,,,
-5,5,Img,神奇葫蘆,shenqihulu.png,,,
-6,5,Img,符咒,fuzho-q.png,,,
+1,4,Img,臉輸小鞭,bian.jpg,,,
+2,4,Wheel,前任智者的日記,riji-i.jpg,riji-f.png,riji-r1.png,riji-r2.png
+3,4,Img,石二牆,shierqiang.jpg,,,
+4,4,Img,逗貓棒,doumaobang.jpg,,,
+5,5,Img,神奇葫蘆,shenqihulu.jpg,,,
+6,5,Img,符咒,fuzho-q.jpg,,,
