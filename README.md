@@ -11,7 +11,7 @@
 </div>
 
 <div>
-  <img src="img/fengmian.png" alt="MiSheng's Multirow Universe cover" width="120">
+  <img src="img/fengmian.jpg" alt="MiSheng's Multirow Universe cover" width="120">
 </div>
 
 </div>
